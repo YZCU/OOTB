@@ -7,7 +7,7 @@ The major revision has been resubmitted to the ISPRS.
 
 - Authors: 
 [Yuzeng Chen](https://github.com/YZCU), 
-[Yuqi Tang](https://faculty.csu.edu.cn/yqtang/zh_CN/zdylm/66781/list/index.htm),
+[Yuqi Tang*](https://faculty.csu.edu.cn/yqtang/zh_CN/zdylm/66781/list/index.htm),
 [Yi Xiao](https://github.com/XY-boy), 
 [Qiangqiang Yuan](http://qqyuan.users.sgg.whu.edu.cn/),
 Yuwei Zhang,
