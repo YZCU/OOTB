@@ -15,7 +15,7 @@ Fengqing Liu,
 [Jiang He](https://jianghe96.github.io/),
 [Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html)
 - Wuhan University and Central South University
-- Download the OOTB dataset on [Baidu Cloud Disk (code:OOTB)](https://pan.baidu.com/s/11hsA4pOliwA1FpOqNol93w ) to your disk, the organized directory looks like:
+- Download the OOTB dataset on [Baidu Cloud Disk (code: OOTB)](https://pan.baidu.com/s/11hsA4pOliwA1FpOqNol93w ) to your disk, the organized directory looks like:
     ```
     --OOTB/
     	|--car_1/
