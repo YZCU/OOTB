@@ -1,9 +1,7 @@
-# OOTB
+# OOTB (Under Review)
 ### 📖**Paper** |
 
 Codes for "**Satellite Video Single Object Tracking: A Systematic Review and an Oriented Object Tracking Benchmark**", 
-
-The major revision has been resubmitted to the ISPRS.
 
 - Authors: 
 [Yuzeng Chen](https://github.com/YZCU), 
