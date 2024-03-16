@@ -73,7 +73,7 @@ Email: yuzeng_chen@whu.edu.cn
 
 ## Acknowledgement
 
-:heart::heart::heart:Our benchmark is implemented base on the following projects. We really appreciate their excellent open-source works!
+:heart::heart::heart: We really appreciate excellent works, as follows:
 
 - [OTB](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html) 
 - [TrackingNet](https://github.com/SilvioGiancola/TrackingNet-devkit)
