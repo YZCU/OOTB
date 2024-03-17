@@ -1,0 +1,10 @@
+%parameters according to the paper
+params.padding = 1.0;         			% extra area surrounding the target
+params.output_sigma_factor = 1/16;		% standard deviation for the desired translation filter output%
+params.scale_sigma_factor = 1/4;        % standard deviation for the desired scale filter output%
+params.lambda = 1e-2;					% regularization weight (denoted "lambda" in the paper)%
+params.learning_rate = 0.025;			% tracking model learning rate (denoted "eta" in the paper)%
+params.number_of_scales = 33;           % number of scale levels (denoted "S" in the paper)
+params.scale_step = 1.02;               % Scale increment factor (denoted "a" in the paper)
+params.scale_model_max_area = 512;      % the maximum size of scale examples
+params.visualization = 1;
