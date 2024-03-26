@@ -9,7 +9,7 @@ Benchmark for "**Satellite Video Single Object Tracking: A Systematic Review and
 
 --------------------------------------------------------------------------------------
 - Authors: 
-[Yuzeng Chen](https://github.com/YZCU), 
+[Yuzeng Chen](https://yzcu.github.io/), 
 [Yuqi Tang*](https://faculty.csu.edu.cn/yqtang/zh_CN/zdylm/66781/list/index.htm),
 [Yi Xiao](https://github.com/XY-boy), 
 [Qiangqiang Yuan](http://qqyuan.users.sgg.whu.edu.cn/),
