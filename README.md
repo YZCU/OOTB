@@ -1,4 +1,4 @@
-### 📖[**OOTB**](https://www.sciencedirect.com/science/article/pii/S0924271624000856)
+### [**OOTB**](https://www.sciencedirect.com/science/article/pii/S0924271624000856)
 
 The official implementation for "**Satellite Video Single Object Tracking: A Systematic Review and An Oriented Object Tracking Benchmark**", ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2024.
 
