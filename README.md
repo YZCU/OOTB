@@ -94,15 +94,13 @@ If you find our work helpful in your research, kindly consider citing it. We app
 ```
 @article{CHEN2024212,
 title = {Satellite video single object tracking: A systematic review and an oriented object tracking benchmark},
+author = {Yuzeng Chen and Yuqi Tang and Yi Xiao and Qiangqiang Yuan and Yuwei Zhang and Fengqing Liu and Jiang He and Liangpei Zhang},
 journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
 volume = {210},
 pages = {212-240},
 year = {2024},
 issn = {0924-2716},
 doi = {https://doi.org/10.1016/j.isprsjprs.2024.03.013},
-url = {https://www.sciencedirect.com/science/article/pii/S0924271624000856},
-author = {Yuzeng Chen and Yuqi Tang and Yi Xiao and Qiangqiang Yuan and Yuwei Zhang and Fengqing Liu and Jiang He and Liangpei Zhang},
-keywords = {Satellite video, Deep learning, Correlation filter, Single object tracking, Benchmark},
-abstract = {Single object tracking (SOT) in satellite video (SV) enables the continuous acquisition of position and range information of an arbitrary object, showing promising value in remote sensing applications. However, existing trackers and datasets rarely focus on the SOT of oriented objects in SV. To bridge this gap, this article presents a comprehensive review of various tracking paradigms and frameworks covering both the general video and satellite video domains and subsequently proposes the oriented object tracking benchmark (OOTB) to advance the field of visual tracking. OOTB contains 29,890 frames from 110 video sequences, covering common satellite video object categories including car, ship, plane, and train. All frames are manually annotated with oriented bounding boxes, and each sequence is labeled with 12 fine-grained attributes. Additionally, a high-precision evaluation protocol is proposed for comprehensive and fair comparisons of trackers. To validate the existing trackers and explore frameworks suitable for SV tracking, we benchmark 33 state-of-the-art trackers totaling 58 models with different features, backbones, and tracker tags. Finally, extensive experiments and insightful thoughts are also provided to help understand their performance and offer baseline results for future research. OOTB is available at https://github.com/YZCU/OOTB.}
+url = {https://www.sciencedirect.com/science/article/pii/S0924271624000856}
 }
 ```
