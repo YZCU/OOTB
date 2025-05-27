@@ -5,8 +5,14 @@
 - ISPRS Journal of Photogrammetry and Remote Sensing, 2024.
 --------------------------------------------------------------------------------------
 
-:running:Keep updating:running:: We have released the [**LMOD**](https://github.com/YZCU/LMOD): A Large-scale and Multiclass Moving Object Detection Dataset for Satellite Videos.
-
+:running:Keep updating:running:: 
+We have released the [**LMOD**](https://github.com/YZCU/LMOD): A Large-scale and Multiclass Moving Object Detection Dataset for Satellite Videos.
+--------------------------------------------------------------------------------------
+:running:Keep updating:running::
+- Results of [RAMC on SatSOT](https://github.com/YZCU/RAMC/blob/main/result%20of%20RAMC.zip) have been released.
+- Results of [RAMC on SV248S](https://github.com/YZCU/RAMC/blob/main/result%20of%20RAMC.zip) have been released.
+- Results of [RAMC on OOTB](https://github.com/YZCU/RAMC/blob/main/result%20of%20RAMC.zip) have been released.
+- We have released the [**LMOD**](https://github.com/YZCU/LMOD): A Large-scale and Multiclass Moving Object Detection Dataset for Satellite Videos.
 --------------------------------------------------------------------------------------
 
 - Download the OOTB dataset on [Baidu Cloud Disk (code: OOTB)](https://pan.baidu.com/s/11hsA4pOliwA1FpOqNol93w ) to your disk, the organized directory looks like:
