@@ -15,7 +15,7 @@
   
 - Results of [REPS on OOTB](https://github.com/YZCU/REPS) have been released.
   
-- We have released the [**LMOD**](https://github.com/YZCU/LMOD): A Large-scale and Multiclass Moving Object Detection Dataset for Satellite Videos.
+- The [**LMOD**](https://github.com/YZCU/LMOD): A Large-scale and Multiclass Moving Object Detection Dataset for Satellite Videos has been released.
 --------------------------------------------------------------------------------------
 
 - Download the OOTB dataset on [Baidu Cloud Disk (code: OOTB)](https://pan.baidu.com/s/11hsA4pOliwA1FpOqNol93w ) to your disk, the organized directory looks like:
