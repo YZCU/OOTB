@@ -1,22 +1,14 @@
+--------------------------------------------------------------------------------------
 ### [**OOTB**](https://www.sciencedirect.com/science/article/pii/S0924271624000856)
 
-The official implementation for "**Satellite Video Single Object Tracking: A Systematic Review and An Oriented Object Tracking Benchmark**", ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2024.
-
+- The implementation for "**Satellite Video Single Object Tracking: A Systematic Review and An Oriented Object Tracking Benchmark**".
+- ISPRS Journal of Photogrammetry and Remote Sensing, 2024.
 --------------------------------------------------------------------------------------
 
 :running:Keep updating:running:: We have released the [**LMOD**](https://github.com/YZCU/LMOD): A Large-scale and Multiclass Moving Object Detection Dataset for Satellite Videos.
 
 --------------------------------------------------------------------------------------
-- Authors: 
-[Yuzeng Chen](https://yzcu.github.io/), 
-[Yuqi Tang*](https://faculty.csu.edu.cn/yqtang/zh_CN/zdylm/66781/list/index.htm),
-[Yi Xiao](https://github.com/XY-boy), 
-[Qiangqiang Yuan](http://qqyuan.users.sgg.whu.edu.cn/),
-Yuwei Zhang,
-Fengqing Liu,
-[Jiang He](https://jianghe96.github.io/),
-[Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html)
-- Wuhan University and Central South University
+
 - Download the OOTB dataset on [Baidu Cloud Disk (code: OOTB)](https://pan.baidu.com/s/11hsA4pOliwA1FpOqNol93w ) to your disk, the organized directory looks like:
     ```
     --OOTB/
